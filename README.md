@@ -1,3 +1,15 @@
 # web-fundjave
 
-Pershendetje grupi, ketu do te shihni te update-uara leksionet qe zhvillojme bashke ne klase. Mos harroni ta kontrolloni here pas here ne rast se kam shtuar dokumentacion. Beni clone/download per te aksesuar filet. Kalofshi mire! 
+PROJEKT 1 (10 pike)
+-html, css, bootstrap 
+#TE GJITHA TE JENE FULLY RESPONSIVE
+
+Permbajtja:
+-Bar Navigimi 
+-Carousel
+-Modal 
+-Rreshta te ndare ne kolona me informacion (tip stil gazete)
+-Footer
+-Formular 
+
+#MOS PERDORN NGJYRA TE NDEZURA, JU LUTEM!
